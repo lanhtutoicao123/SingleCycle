@@ -1,0 +1,6 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1731575859" />
+    <testcase name="run_test" classname="brc_tbench" file="/mnt/d/00_cautrucmaytinh/01_bench/brc_tbench.py" lineno="124" time="0.022947072982788086" sim_time_ns="1000.001" ratio_time="43578.58628636737" />
+  </testsuite>
+</testsuites>

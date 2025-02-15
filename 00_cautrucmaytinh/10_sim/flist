@@ -1,0 +1,5 @@
+-I./../00_src/
+./../00_src/alu.sv
+./../00_src/brc.sv
+./../00_src/timescale.svh
+-top alu
