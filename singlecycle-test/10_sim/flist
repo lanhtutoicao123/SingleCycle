@@ -1,0 +1,24 @@
+-I./../00_src/
+./../00_src/singlecycle.sv
+./../00_src/alu.sv
+./../00_src/regfile.sv
+./../00_src/bin2bcd.sv
+./../00_src/SevenSegmentControl.sv
+./../00_src/mux1.sv
+./../00_src/mux2.sv
+./../00_src/mux3.sv
+./../00_src/mux4.sv
+./../00_src/programcounter.sv
+./../00_src/brc.sv
+./../00_src/instruction_memory.sv
+./../00_src/imm_gen.sv
+./../00_src/add4.sv
+./../00_src/controller.sv
+./../00_src/lsu.sv
+
+./../01_bench/tlib.svh
+./../01_bench/driver.sv
+./../01_bench/scoreboard.sv
+./../01_bench/tbench.sv
+./conf.vlt
+-top tbench

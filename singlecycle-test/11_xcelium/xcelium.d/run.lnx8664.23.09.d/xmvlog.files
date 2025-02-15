@@ -1,0 +1,24 @@
+//
+// File created by:  xrun
+// Do not modify this file
+//
+/earth/class/comparch/ee3043/ca113/Documents/singlecycle-test/00_src/singlecycle.sv
+/earth/class/comparch/ee3043/ca113/Documents/singlecycle-test/00_src/mux1.sv
+/earth/class/comparch/ee3043/ca113/Documents/singlecycle-test/00_src/mux2.sv
+/earth/class/comparch/ee3043/ca113/Documents/singlecycle-test/00_src/mux3.sv
+/earth/class/comparch/ee3043/ca113/Documents/singlecycle-test/00_src/mux4.sv
+/earth/class/comparch/ee3043/ca113/Documents/singlecycle-test/00_src/brc.sv
+/earth/class/comparch/ee3043/ca113/Documents/singlecycle-test/00_src/alu.sv
+/earth/class/comparch/ee3043/ca113/Documents/singlecycle-test/00_src/controller.sv
+/earth/class/comparch/ee3043/ca113/Documents/singlecycle-test/00_src/regfile.sv
+/earth/class/comparch/ee3043/ca113/Documents/singlecycle-test/00_src/add4.sv
+/earth/class/comparch/ee3043/ca113/Documents/singlecycle-test/00_src/imm_gen.sv
+/earth/class/comparch/ee3043/ca113/Documents/singlecycle-test/00_src/output_buffer.sv
+/earth/class/comparch/ee3043/ca113/Documents/singlecycle-test/00_src/input_buffer.sv
+/earth/class/comparch/ee3043/ca113/Documents/singlecycle-test/00_src/instruction_memory.sv
+/earth/class/comparch/ee3043/ca113/Documents/singlecycle-test/00_src/data_mem.sv
+/earth/class/comparch/ee3043/ca113/Documents/singlecycle-test/00_src/lsu.sv
+/earth/class/comparch/ee3043/ca113/Documents/singlecycle-test/01_bench/tlib.svh
+/earth/class/comparch/ee3043/ca113/Documents/singlecycle-test/01_bench/driver.sv
+/earth/class/comparch/ee3043/ca113/Documents/singlecycle-test/01_bench/scoreboard.sv
+/earth/class/comparch/ee3043/ca113/Documents/singlecycle-test/01_bench/tbench.sv
